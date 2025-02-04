@@ -1,6 +1,7 @@
 -- select sql on the top and copy and paste below code in the query.
+-- CREATE DATABASE named practical_test;
 
-CREATE DATABASE practical_test;
+-- CREATE DATABASE practical_test;
 use practical_test;
 
 CREATE TABLE `user_form` (
