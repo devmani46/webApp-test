@@ -17,7 +17,7 @@ This project is a simple user profile management system built using PHP and MySQ
 / ── Root directory
 │
 ├── config.php             // Database connection file with PDO setup
-├── index.php              // Homepage displaying a welcome message or dashboard
+├── footer.php             // Footer
 ├── login.php              // User login page
 ├── register.php           // User registration page
 ├── update_profile.php     // User profile update page
@@ -25,8 +25,7 @@ This project is a simple user profile management system built using PHP and MySQ
 ├── uploaded_img/          // Directory where uploaded profile images are stored
 │
 ├── css/
-│   ├── style.css          // Custom CSS for styling the pages
-│   └── login.css          // CSS specifically for the login page
+│   └── style.css          // Custom CSS for styling the pages
 │
 └── images/
     └── default-avatar.png // Default avatar image shown when no profile picture is uploaded
